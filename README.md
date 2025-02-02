@@ -1,69 +1,99 @@
-
 <center>
 
-![sijodks](img/200.gif)![sijodks](img/200.gif)![sijodks](img/200.gif)
+# 👋 Olá, eu sou o Luiz!
 
 </center>
 
 <center>
 
-<h1>Olá, eu sou o Luiz Felipe 👋</h1>
+## Data Engineer & AI
 
 </center>
 
 <center>
 
-<h3>Como me contar:</h3>
+👨🏻‍💻 Sou estudante de Engenharia de Software na UTFPR, com experiência em Engenharia de Dados. Atualmente, estou explorando o mundo dos dados, aprimorando minhas habilidades para transformar dados brutos em insights valiosos.
 
 </center>
 
+---
 
-
-<center>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-miguel-42955624a) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:euluizfelip@hotmail.com) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euluizzzzzzzz?igsh=MTU4cGhtY2M3OXk4aQ==)
-
-</center>
+### 🛠️ **Habilidades Técnicas**
 
 <center>
-<h2>👨🏻‍💻 Sou um estudante apaixonado por tecnologia, cursando Engenharia de Software na UTFPr, localizada em Dois Vizinhos-PR. 
-</center></h2>
 
-### Skils: 
-<center> 
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C ++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whitee)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Unbunto](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+#### **Linguagens e Ferramentas**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
-)
-![netbens](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
-)
-![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### **Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+
+#### **Cloud e Big Data**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Glue](https://img.shields.io/badge/Amazon_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Lambda](https://img.shields.io/badge/Amazon_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon DMS](https://img.shields.io/badge/Amazon_DMS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+#### **Ferramentas de Visualização**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### **Bibliotecas e Frameworks**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
 </center>
+
+---
+
+### 🌐 **Vamos nos conectar!**
+
+Se você está interessado em colaborar em projetos de engenharia de dados ou apenas quer trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato!
 
 <center>
 
-![Luiz Felipe](https://github-readme-stats.vercel.app/api?username=euluizfelipee&show_icons=true&theme=merko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiz-miguel-42955624a)  
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:euluizfelip@hotmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euluizzzzzzzz?igsh=MTU4cGhtY2M3OXk4aQ==)
+
 </center>
 
+---
+
+### 📌 **Sobre Mim**
+
+- 🎓 Estudante de Engenharia de Software na UTFPR.  
+- 💡 Apaixonado por dados, tecnologia e inovação.  
+- 🚀 Focado em construir soluções escaláveis e eficientes para problemas complexos.  
+- 🌱 Sempre aprendendo e explorando novas tecnologias.  
+
+---
+
+<center>
+
+✨ **Vamos construir o futuro dos dados juntos!** ✨
+
+</center>
